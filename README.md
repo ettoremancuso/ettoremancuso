@@ -2,8 +2,6 @@
 
 I study Economics and Finance at the University of Palermo and spent the spring 2026 semester on Erasmus in Germany, where I took Banking and Risk Management. I'm interested in credit risk, bank regulation and corporate finance, and I use code to answer questions I would otherwise only read about.
 
-I'm looking for internships in risk management, banking and finance.
-
 ### Projects
 
 **[German Credit Risk](https://github.com/ettoremancuso/german-credit-risk)**: from system-wide signals (insolvencies, NPLs, Stage 2) to a borrower-level PD model. WoE logistic scorecard, random forest and gradient boosting, a rating master scale and IRB capital under CRR3, with the output floor.
