@@ -10,8 +10,8 @@ I study Economics and Finance at the University of Palermo and spent the spring 
 **[The Fiscal Footprint of Italy's Superbonus 110%](https://github.com/ettoremancuso/superbonus-fiscal-footprint)**: how a tax credit reached Italy's deficit and debt, and the multiplier it would have needed to pay for itself.
 `Python` `pandas` `matplotlib`
 
-**Between Sustainability and Competitiveness: the Atalanta Model**: ten years of financial statements of a football club that keeps closing in profit.
-`Financial statement analysis`
+**[Between Sustainability and Competitiveness: the Atalanta Model](https://github.com/ettoremancuso/atalanta-business-model)**: ten years of Atalanta's accounts, how much of the profit comes from selling players, and an LBO model of the 2022 Pagliuca deal.
+`Python` `Excel` `LBO` `Financial statement analysis`
 
 ### Tools
 
