@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Ettore
 
-<!--
-**ettoremancuso/ettoremancuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I study Economics and Finance at the University of Palermo and spent the spring 2026 semester on Erasmus in Germany, where I took Banking and Risk Management. I'm interested in credit risk, bank regulation and corporate finance, and I use code to answer questions I would otherwise only read about.
 
-Here are some ideas to get you started:
+I'm looking for internships in risk management, banking and finance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+**[German Credit Risk](https://github.com/ettoremancuso/german-credit-risk)**: from system-wide signals (insolvencies, NPLs, Stage 2) to a borrower-level PD model. WoE logistic scorecard, random forest and gradient boosting, a rating master scale and IRB capital under CRR3, with the output floor.
+`Python` `scikit-learn` `SQL` `R` `pytest`
+
+**The Fiscal Footprint of Italy's Superbonus 110%**: how a tax credit reached Italy's deficit and debt, and the multiplier it would have needed to pay for itself.
+`Python` `pandas` `matplotlib`
+
+**Between Sustainability and Competitiveness: the Atalanta Model**: ten years of financial statements of a football club that keeps closing in profit.
+`Financial statement analysis`
+
+### Tools
+
+Python (pandas, NumPy, scikit-learn, statsmodels, matplotlib) · R · SQL · STATA · Power BI · Excel · LaTeX · Git
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/ettoremancuso/) · ettoremancuso6@gmail.com
+
+Languages: Italian (native), English (C1), German (A1)
